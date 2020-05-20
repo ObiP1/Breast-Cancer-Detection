@@ -24,9 +24,19 @@ Use Gradient Boosting and train your data to visualaze the effectiveness of it o
 
 **STEP 4)**
 
-Plot the dataset's most important features and view which features have the greatest impact when it comes to Breast Cancer. 
+Plot the dataset's most important features and view which features have the greatest impact when it comes to Breast Cancer. In this case, worst concave points have the biggest importance on our dataset.
 
 ![Cancer3](https://user-images.githubusercontent.com/60532479/82493431-f34eb080-9ab5-11ea-98a0-606eb9abfe88.png)
+
+![Cancer4](https://user-images.githubusercontent.com/60532479/82494341-69074c00-9ab7-11ea-887f-9da82d61e9be.png)
+
+
+**STEP 5)**
+
+
+Set up the dataframe and analyze the data by calling X back.
+
+
 
 
 
