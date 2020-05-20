@@ -83,9 +83,12 @@ Compile the model. The small learning rate is huge here as it will allow the mod
 ![Cancer11](https://user-images.githubusercontent.com/60532479/82497356-1d0ad600-9abc-11ea-8347-816f158f4cab.png)
 
 
-**STEPP 12)**
+**STEP 12)**
 
 Run the model. Based on this, we can see the slight varancies with how much is lost, but we primarily get a detection rate of 96.49%.
+
+![Cancer13](https://user-images.githubusercontent.com/60532479/82498246-aa9af580-9abd-11ea-8595-ace8a1990af7.png)
+
 
 
 
