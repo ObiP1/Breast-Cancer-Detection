@@ -17,6 +17,8 @@ Load the breast Cancer dataset from the SciKit library.
 
 **STEP 3)**
 
+Use Gradient Boosting and train your data to visualaze the effectiveness of it on the dataset.
+
 
 
 
