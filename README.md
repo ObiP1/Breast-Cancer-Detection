@@ -61,7 +61,17 @@ Confirm the sizes of the training and test datasets are in fact an 80/20 split.
 
 **STEP 9)**
 
-Scale and shape the data into a 3 dimensional array.
+Scale and shape the data into a 3 dimensional array for usability.
+
+![Cancer9](https://user-images.githubusercontent.com/60532479/82496543-ee403000-9aba-11ea-8695-d5daa6bb86b2.png)
+
+
+**STEP 10)**
+
+Develop the model while implemnting the use of a Convolutional Neural Network. Take a look at the model afterwards. 
+
+
+
 
 
 
