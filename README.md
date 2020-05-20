@@ -43,6 +43,14 @@ Set up the dataframe and analyze the data by calling X back.
 
 Take a look at how much data is currently contained by checking the shape of X.
 
+![Cancer6](https://user-images.githubusercontent.com/60532479/82495471-234b8300-9ab9-11ea-91e4-d5795b1d6981.png)
+
+
+**STEP 7)**
+
+
+Scale 80% of your data into a training set and the other 20% into a test set.
+
 
 
 
