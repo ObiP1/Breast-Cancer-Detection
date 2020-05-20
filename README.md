@@ -71,6 +71,11 @@ Scale and shape the data into a 3 dimensional array for usability.
 Develop the model while implemnting the use of a Convolutional Neural Network. Take a look at the model afterwards. 
 
 
+![Cancer10](https://user-images.githubusercontent.com/60532479/82497153-cbfae200-9abb-11ea-9643-43c1d506cea0.png)
+
+
+
+
 
 
 
