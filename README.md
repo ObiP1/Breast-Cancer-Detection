@@ -49,13 +49,20 @@ Take a look at how much data is currently contained by checking the shape of X.
 **STEP 7)**
 
 
-Scale 80% of data into a training set and the other 20% into a test set.
+Take 80% of data into a training set and the other 20% into a test set.
 
 ![Cancer 7](https://user-images.githubusercontent.com/60532479/82495762-99e88080-9ab9-11ea-9844-5f8e41b284d8.png)
 
 **STEP 8)**
 
-Confirm the scaling of the training and test datasets.
+Confirm the sizes of the training and test datasets are in fact an 80/20 split.
+
+![Cancer8](https://user-images.githubusercontent.com/60532479/82496073-209d5d80-9aba-11ea-83f5-e62ab0200330.png)
+
+**STEP 9)**
+
+Scale and shape the data into a 3 dimensional array.
+
 
 
 
