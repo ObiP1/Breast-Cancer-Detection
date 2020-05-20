@@ -49,7 +49,14 @@ Take a look at how much data is currently contained by checking the shape of X.
 **STEP 7)**
 
 
-Scale 80% of your data into a training set and the other 20% into a test set.
+Scale 80% of data into a training set and the other 20% into a test set.
+
+![Cancer 7](https://user-images.githubusercontent.com/60532479/82495762-99e88080-9ab9-11ea-9844-5f8e41b284d8.png)
+
+**STEP 8)**
+
+Confirm the scaling of the training and test datasets.
+
 
 
 
