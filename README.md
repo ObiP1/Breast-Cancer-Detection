@@ -36,6 +36,15 @@ Plot the dataset's most important features and view which features have the grea
 
 Set up the dataframe and analyze the data by calling X back.
 
+![Cancer5](https://user-images.githubusercontent.com/60532479/82495200-c059ec00-9ab8-11ea-9752-bcc78219eab5.png)
+
+
+**STEP 6)**
+
+Take a look at how much data is currently contained by checking the shape of X.
+
+
+
 
 
 
