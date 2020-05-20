@@ -73,6 +73,24 @@ Develop the model while implemnting the use of a Convolutional Neural Network. T
 
 ![Cancer10](https://user-images.githubusercontent.com/60532479/82497153-cbfae200-9abb-11ea-9643-43c1d506cea0.png)
 
+![Cancer11](https://user-images.githubusercontent.com/60532479/82497356-1d0ad600-9abc-11ea-8347-816f158f4cab.png)
+
+
+**STEP 11)**
+
+Compile the model. The small learning rate is huge here as it will allow the model to ultimately be more accurate.
+
+![Cancer11](https://user-images.githubusercontent.com/60532479/82497356-1d0ad600-9abc-11ea-8347-816f158f4cab.png)
+
+
+**STEPP 12)**
+
+Run the model. Based on this, we can see the slight varancies with how much is lost, but we primarily get a detection rate of 96.49%.
+
+
+
+
+
 
 
 
