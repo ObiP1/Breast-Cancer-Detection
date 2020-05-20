@@ -80,7 +80,7 @@ Develop the model while implemnting the use of a Convolutional Neural Network. T
 
 Compile the model. The small learning rate is huge here as it will allow the model to ultimately be more accurate.
 
-![Cancer11](https://user-images.githubusercontent.com/60532479/82497356-1d0ad600-9abc-11ea-8347-816f158f4cab.png)
+![Cancer12](https://user-images.githubusercontent.com/60532479/82498434-f9488f80-9abd-11ea-8dce-860ddc871ff4.png)
 
 
 **STEP 12)**
