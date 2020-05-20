@@ -97,6 +97,12 @@ Create two plots to visualize both our Model loss and Model accuracy.
 
 ![Cancer14](https://user-images.githubusercontent.com/60532479/82499067-ff8b3b80-9abe-11ea-9075-c82fd67d24cf.png)
 
+![Cancer15](https://user-images.githubusercontent.com/60532479/82499474-b8517a80-9abf-11ea-9488-417452782f0e.png)
+
+![Cancer16](https://user-images.githubusercontent.com/60532479/82499482-bab3d480-9abf-11ea-9160-88d228dabe8a.png)
+
+
+
 
 
 
