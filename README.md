@@ -26,6 +26,9 @@ Use Gradient Boosting and train your data to visualaze the effectiveness of it o
 
 Plot the dataset's most important features and view which features have the greatest impact when it comes to Breast Cancer. 
 
+![Cancer3](https://user-images.githubusercontent.com/60532479/82493431-f34eb080-9ab5-11ea-98a0-606eb9abfe88.png)
+
+
 
 
 
