@@ -12,6 +12,13 @@ The first step is importing the necessary libaries we need.
 
 Load the breast Cancer dataset from the SciKit library.
 
+![Cancer1](https://user-images.githubusercontent.com/60532479/82482182-6ea76680-9aa4-11ea-9025-66076ef24555.png)
+
+
+**STEP 3)**
+
+
+
 
 
 
