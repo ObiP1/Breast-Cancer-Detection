@@ -95,6 +95,9 @@ Run the model. Based on this, we can see the slight varancies with how much is l
 
 Create two plots to visualize both our Model loss and Model accuracy.
 
+![Cancer14](https://user-images.githubusercontent.com/60532479/82499067-ff8b3b80-9abe-11ea-9075-c82fd67d24cf.png)
+
+
 
 
 
