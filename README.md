@@ -19,6 +19,13 @@ Load the breast Cancer dataset from the SciKit library.
 
 Use Gradient Boosting and train your data to visualaze the effectiveness of it on the dataset.
 
+![Cancer2](https://user-images.githubusercontent.com/60532479/82493202-8d622900-9ab5-11ea-9bef-e2ecaedd4989.png)
+
+
+**STEP 4)**
+
+Plot the dataset's most important features and view which features have the greatest impact when it comes to Breast Cancer. 
+
 
 
 
